@@ -1,4 +1,4 @@
-Built with [`pdfplumber`](https://github.com/jsvine/pdfplumber) and `pandas`, this script is designed for statements that follow a standard table-like format, even when the PDF doesn't expose actual tables.
+Built with [`pdfplumber`](https://github.com/jsvine/pdfplumber) and `pandas`, this script is designed for Advanzia Bank/Carta YOU transaction statements to be converted in xls format for better data handling and processing.
 
 ---
 
@@ -25,3 +25,5 @@ You can install all dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
+
+Alternatively, you can download the latest standalone exe from the Releases page.
